@@ -79,6 +79,8 @@ figcaption {
 
 a {
   text-decoration: none;
-  color: #ffffff;
   font-weight: 900;
 }
+
+a:link { color: #fff}
+a:hover { color: #DF6437}
